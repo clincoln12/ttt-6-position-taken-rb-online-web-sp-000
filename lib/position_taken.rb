@@ -12,5 +12,5 @@ def position_taken?(board, index)
        
        else cell == "X" || "O"
         return true
- end
+  end
 end
