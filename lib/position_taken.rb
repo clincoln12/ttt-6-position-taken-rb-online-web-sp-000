@@ -3,4 +3,5 @@ def position_taken?(board, index)
   
   if cell == " "
     return false
+  end
 end
