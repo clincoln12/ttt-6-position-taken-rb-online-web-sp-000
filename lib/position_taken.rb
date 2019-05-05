@@ -1,1 +1,6 @@
-# code your #position_taken? method here!
+def position_taken?(board, index)
+  cell = board[index]
+end
+
+board = [" "," "," "," "," "," "," "," "," "]
+return board[0]
